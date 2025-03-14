@@ -1,3 +1,3 @@
-<h1>Intalacion</h1>
+<h1>Clases de Alura Latam</h1>
 
-Nada aun
+Aqui se suben las practicas vistas en Alura Latam.
